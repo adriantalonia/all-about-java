@@ -7,7 +7,6 @@
 - Programming challenges
 - Advanced concepts
 
-
 ## Authors
 
 - Adrián Talonia Ramos [Java FullStack Developer] [@adriantalonia](https://github.com/adriantalonia)
