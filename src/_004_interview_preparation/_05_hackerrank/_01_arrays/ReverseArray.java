@@ -7,6 +7,10 @@ public class ReverseArray {
 
     public static List<Integer> reverseArray(List<Integer> a) {
         // Write your code here
+        if(a.size() == 1) {
+            return a;
+        }
+
         List<Integer> res = new ArrayList<>();
         for(int i = a.size()-1; i >= 0; i--) {
             res.add(a.get(i));
