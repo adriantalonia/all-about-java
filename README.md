@@ -11,7 +11,6 @@
 
 - Adrián Talonia Ramos [Java FullStack Developer] [@adriantalonia](https://github.com/adriantalonia)
 
-
 ## Technology Stack
 - Java 18
 
